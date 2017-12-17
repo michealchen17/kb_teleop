@@ -20,7 +20,7 @@
 #include <ros/ros.h>
 #include <sensor_msgs/Joy.h>
 #include <linux/input.h>
-#include <iostream>             //just for debug.
+//#include <iostream>             //just for debug.
 
 
 #define KEY_ARROW_UP        103
