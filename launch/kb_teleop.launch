@@ -1,0 +1,6 @@
+
+<launch>
+	<node pkg="kb_teleop" type="kb_teleop" name="kb_teleop">
+		<remap from="kb_teleop" to="teleop"/>
+	</node>
+</launch>
